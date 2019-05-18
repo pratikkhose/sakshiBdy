@@ -1,0 +1,11 @@
+#div1{
+    margin-top: 50%;
+    display: block;
+}
+img, iframe {
+    box-shadow: 0 0 10px black;
+    border: 5px solid white;
+    border-radius: 10px;
+    opacity: 0.8;
+
+}
