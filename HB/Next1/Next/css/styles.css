@@ -11,6 +11,9 @@ body{
     box-shadow: 0 0 10px darkred;
     overflow: hidden;
 }
+.width1{
+width:100%;
+}
 .zoom img{
     width: inherit;
     height: inherit;
