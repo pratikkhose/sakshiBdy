@@ -31,7 +31,7 @@ body{
     border: 2px solid darkred;
     width: 100%;
     margin: 5px;
-    height: 500px;
+    height: 800px;
     display: block;
     padding: 5px;
     border-radius: 10px;
@@ -42,7 +42,7 @@ body{
 }
 .gallery-zoom{
     width: 100%;
-    height: 500px;
+    height: 800px;
     overflow: hidden;
     border-radius: 10px;
 }
